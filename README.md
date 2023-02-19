@@ -3,8 +3,8 @@
 Hello, I'm [Yimin Yan](https://www.linkedin.com/in/yimin-y-4baa8320b/), a data scientist:
 
 - 👨‍💼 I currently am working in London.
-- 📺 I currently continue to learn some online courses on Udemy/Coursera to imporve my background on machine learning and full-stack development. 
-- 👯 I look for good opportunities in finance spaces.
+- 📺 I currently continue to learn some online courses on Udemy/Coursera to imporve my skills on machine learning and full-stack development for quant finance.
+- 👯 I look for good opportunities like quant analyst in finance spaces.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
