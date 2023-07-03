@@ -2,7 +2,7 @@
 
 Hello, I'm [Yimin Yan](https://www.linkedin.com/in/yimin-y-4baa8320b/), a data scientist:
 
-- 👨‍💼 I currently am working in London.
+- 👨‍💼 I currently am working at [SJP](https://www.sjp.co.uk/).
 - 📺 I currently continue to learn some online courses on Udemy/Coursera to imporve my skills on machine learning and full-stack development for quant analysis.
 - 👯 I look for good opportunities like quant developer in finance spaces.
 <!--
