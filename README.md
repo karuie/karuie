@@ -2,7 +2,7 @@
 
 Hello, I'm [Yimin Yan](https://www.linkedin.com/in/yimin-y-4baa8320b/), an investment data scientist:
 
-- 👨‍💼 I currently am working at [St. James’s place wealth management](https://www.sjp.co.uk/).
+- 👨‍💼 I am currently working at [St. James’s place wealth management](https://www.sjp.co.uk/).
 <!-- 
 - 📺 I currently continue to learn some online courses on Udemy/Coursera to imporve my skills on machine learning and full-stack development for quant analysis.
 -->
